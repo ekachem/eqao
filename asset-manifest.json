@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eqao/static/css/main.656a3267.css",
+    "main.js": "/eqao/static/js/main.43bef49e.js",
+    "static/js/453.3d85d18b.chunk.js": "/eqao/static/js/453.3d85d18b.chunk.js",
+    "index.html": "/eqao/index.html",
+    "main.656a3267.css.map": "/eqao/static/css/main.656a3267.css.map",
+    "main.43bef49e.js.map": "/eqao/static/js/main.43bef49e.js.map",
+    "453.3d85d18b.chunk.js.map": "/eqao/static/js/453.3d85d18b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.656a3267.css",
+    "static/js/main.43bef49e.js"
+  ]
+}
